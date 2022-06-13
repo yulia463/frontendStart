@@ -28,8 +28,8 @@ let bonusBalance = 500;
 let sum = 3000;
 let mount = 2;
 let standartMountProsent = 10;
-    let increasetProsent = 20;
-    let frequentPurchasesProsent = 5 ;
+let increasetProsent = 20;
+let frequentPurchasesProsent = 5 ;
 //ВАША ЧАСТЬ ПРАВИЛЬНОГО РЕШЕНИЯ
 
 //ПРАВИЛЬНОЕ РЕШЕНИЕ
