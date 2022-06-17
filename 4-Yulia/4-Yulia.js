@@ -2,7 +2,7 @@
 //    " Но дело движется."
 // ]
 
-let messenger = []
+let messenger = [];
 messenger.push("Привет! Есть ли новости?")
 // console.log(messenger)
 messenger.push(":)")
@@ -16,10 +16,15 @@ messenger.push(" Но дело движется.")
 messenger.push("готово!")
 messenger[3] = "Стараюсь"
 console.log(messenger)
+
+
+
+
+
 // messenger.splice(1,1)
 // console.log(messenger)
-let smile = ":)";
-console.log(messenger.indexOf(smile));
-messenger.splice(messenger.indexOf(smile),1);
-console.log(messenger)
-
+// let smile = ":)";
+// console.log(messenger.indexOf(smile));
+// messenger.splice(messenger.indexOf(smile),1);
+// console.log(messenger)
+//
